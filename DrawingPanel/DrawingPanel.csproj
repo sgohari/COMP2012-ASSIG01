@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5923E66A-A901-4FAA-B3A9-08DC3C638A9F}</ProjectGuid>
+    <ProjectGuid>{C8ABC280-265E-49BD-BB65-336554C7B345}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AssignmentOne</RootNamespace>
-    <AssemblyName>AssignmentOne</AssemblyName>
+    <RootNamespace>DrawingPanel</RootNamespace>
+    <AssemblyName>DrawingPanel</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
